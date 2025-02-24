@@ -1,2 +1,7 @@
 # We don't want to commit our build files.
 build/
+out/
+
+# Visual studio (code)
+.vs/
+.vscode/
