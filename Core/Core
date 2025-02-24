@@ -1,6 +1,4 @@
 #pragma once
 
 // To be included in common executable.
-#include "include/core.hpp"
 #include "include/app.hpp"
-#include "include/entry.hpp"

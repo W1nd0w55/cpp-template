@@ -4,7 +4,7 @@
 file(GLOB src "src/**")
 
 # Important!
-add_library(Core SHARED "${src}")
+add_library(Core "${src}")
 
 # Include directories
 target_include_directories(Core PRIVATE "include/")

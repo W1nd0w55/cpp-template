@@ -1,5 +1,4 @@
 #pragma once
-#include "core.hpp"
 
 // Everything for this app goes here.
 namespace MyApp
@@ -12,7 +11,7 @@ namespace MyApp
     {
         
         // Our application class
-        class MY_API Application
+        class Application
         {
         
         // Available members
